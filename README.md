@@ -9,6 +9,9 @@ Once the projectile has been launched, if it's off-screen the arrow keys can be 
 
 Once the projectile has been launched, the user is able to open a calculations tab where they can view all the calculations that have been carried out since the program was started. 
 
+
+To get started: Run main.py
+
 Home screen
 ![image](https://user-images.githubusercontent.com/86207290/145880572-8b0a3d23-6667-4f87-84a6-ed973553a426.png)
 
