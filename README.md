@@ -27,5 +27,9 @@ Inputs Menu
 Pause menu
 ![image](https://user-images.githubusercontent.com/86207290/145881237-577c08d8-b7b2-44fa-9e8f-ef161feaeb2c.png)
 
+Calculations Tab (The arrow keys can be used to scroll if the calculations go off the screen)
+![image](https://user-images.githubusercontent.com/86207290/145883515-95990600-6e69-4757-bf72-aac29f8d3e61.png)
+
+
 Saved Projectile Screen
 ![image](https://user-images.githubusercontent.com/86207290/145881358-8d439f27-a1d3-46d5-b2ed-3211da0f9023.png)
