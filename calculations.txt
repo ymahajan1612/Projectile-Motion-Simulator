@@ -1,0 +1,24 @@
+1. Initial Velocity: 15.0 m/s 
+2. Angle above horizontal: 45.0° 
+3. Horizontal velocity: 10.61 m/s calculated by sin(45.0) * 15.0 
+4. Vertical Velocity: 10.61 m/s calculated by cos(45.0) * 15.0 
+5. Maximum height reached: 5.73 m above the ground 
+6. Flight time: 2.16s 
+7. Horizontal displacement calculated by: 10.61 m/s * 2.16 s = 22.94 m
+
+8. Maximum height reached: 5.73 m above the ground 
+9. Flight time: 2.16s 
+10. Horizontal displacement calculated by: 10.61 m/s * 2.16 s = 22.94 m
+
+11. Maximum height reached: 5.73 m above the ground 
+12. Flight time: 2.16s 
+13. Horizontal displacement calculated by: 10.61 m/s * 2.16 s = 22.94 m
+
+14. Maximum height reached: 5.73 m above the ground 
+15. Flight time: 2.16s 
+16. Horizontal displacement calculated by: 10.61 m/s * 2.16 s = 22.94 m
+
+17. Maximum height reached: 5.73 m above the ground 
+18. Flight time: 2.16s 
+19. Horizontal displacement calculated by: 10.61 m/s * 2.16 s = 22.94 m
+
